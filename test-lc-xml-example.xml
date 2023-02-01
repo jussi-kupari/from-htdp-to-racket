@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://docs.oasis-open.org/ns/search-ws/sruResponse"><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:srw/schema/1/dc-schema http://www.loc.gov/standards/sru/resources/dc-schema.xsd">
+  <title xmlns="http://purl.org/dc/elements/1.1/">Algorithms /</title>
+  <creator xmlns="http://purl.org/dc/elements/1.1/">Sedgewick, Robert, 1946-</creator>
+  <creator xmlns="http://purl.org/dc/elements/1.1/">Wayne, Kevin Daniel, 1971-</creator>
+  <type xmlns="http://purl.org/dc/elements/1.1/">text</type>
+  <publisher xmlns="http://purl.org/dc/elements/1.1/">Upper Saddle River, NJ : Addison-Wesley,</publisher>
+  <date xmlns="http://purl.org/dc/elements/1.1/">c2011.</date>
+  <language xmlns="http://purl.org/dc/elements/1.1/">eng</language>
+  <description xmlns="http://purl.org/dc/elements/1.1/">Includes index.</description>
+  <subject xmlns="http://purl.org/dc/elements/1.1/">Computer algorithms--Textbooks.</subject>
+  <identifier xmlns="http://purl.org/dc/elements/1.1/">URN:ISBN:9780321573513 (hardcover : alk. paper)</identifier>
+</srw_dc:dc></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>2.0</zs:version><zs:query>bath.isbn=9780321573513</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordSchema>dc</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

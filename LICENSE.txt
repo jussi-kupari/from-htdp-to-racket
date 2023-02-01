@@ -1,0 +1,7 @@
+From HtDP to Racket
+
+Code in this repo is under the LGPL license:
+
+https://www.gnu.org/licenses/lgpl-3.0.html
+
+Copyright (c) 2019 Luis Sanjuán.

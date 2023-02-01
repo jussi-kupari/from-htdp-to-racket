@@ -1,0 +1,36 @@
+# ISBN normalized
+
+0262062186       #HtDP/1e
+026256114X       #LMler
+1593274912       #RoR
+9781593274917    #RoR
+0201896834       #TAOCP
+9780201896831    #TAOCP
+
+# ISBNs with several id formats and separators
+
+ISBN 0-262-06218-6
+ISBN: 0  262 56114  X
+ISBN-10 0 262 06218-6
+ISBN-10: 0-201-89683-4    ISBN-13: 978-0-201-89683-1
+ISBN-10: 0 262 56114 X
+ISBN-13: 978-0201896831
+
+# Not ISBN strings
+
+026206218X2      #too long for isbn-10, to short for isbn-13
+02625611414      #(")
+15932749         #too short
+02018968a3311    #not all digits
+9780201896834901 #too long
+
+# ISBN strings, but invalid ISBN
+
+026206218X
+0262561141
+1593274913
+9781593274912
+0201896833
+9780201896834
+
+

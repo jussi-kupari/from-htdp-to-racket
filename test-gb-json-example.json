@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 102,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "x9AsAwAAQBAJ",
+   "etag": "0Kf9w0hazpU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x9AsAwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Art of Computer Programming",
+    "subtitle": "Volume 1: Fundamental Algorithms",
+    "authors": [
+     "Donald E. Knuth"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "1997-07-04",
+    "description": "The bible of all fundamental algorithms and the work that taught many of today's software developers most of what they know about computer programming. –Byte, September 1995 I can't begin to tell you how many pleasurable hours of study and recreation they have afforded me! I have pored over them in cars, restaurants, at work, at home... and even at a Little League game when my son wasn't in the line-up. –Charles Long If you think you're a really good programmer... read [Knuth's] Art of Computer Programming... You should definitely send me a resume if you can read the whole thing. –Bill Gates It's always a pleasure when a problem is hard enough that you have to get the Knuths off the shelf. I find that merely opening one has a very useful terrorizing effect on computers. –Jonathan Laventhol This first volume in the series begins with basic programming concepts and techniques, then focuses more particularly on information structures–the representation of information inside a computer, the structural relationships between data elements and how to deal with them efficiently. Elementary applications are given to simulation, numerical methods, symbolic computing, software and system design. Dozens of simple and important algorithms and techniques have been added to those of the previous edition. The section on mathematical preliminaries has been extensively revised to match present trends in research.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780321635747"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0321635744"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.6.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=x9AsAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=x9AsAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.es/books?id=x9AsAwAAQBAJ&pg=PP4&dq=9780201896831+isbn&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=x9AsAwAAQBAJ&dq=9780201896831+isbn&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_Computer_Programming.html?hl=&id=x9AsAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "ES",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=x9AsAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eISBN 9780201896831\u003c/b\u003e (v. 1, 3rd ed.) \u003cb\u003eISBN\u003c/b\u003e 9780201896848 (v. 2, 3rd ed.) \u003cb\u003eISBN\u003c/b\u003e \u003cbr\u003e\n9780201896855 (v. 3, 2nd ed.) \u003cb\u003eISBN\u003c/b\u003e 9780201038040 (v. 4a) 1. Electronic digital \u003cbr\u003e\ncomputersProgramming. 2. Computer algorithms. I. Title. QA76.6.K64 1997 005.1\u003cbr\u003e\n&nbsp;..."
+   }
+  }
+ ]
+}

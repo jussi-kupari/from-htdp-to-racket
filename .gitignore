@@ -1,0 +1,6 @@
+*.bak
+*.swp
+*~
+*draft*
+compiled*
+.gb.key
